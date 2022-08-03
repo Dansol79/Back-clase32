@@ -1,0 +1,17 @@
+{"level":"warn","message":"ruta no encontrada /chat"}
+{"level":"warn","message":"ruta no encontrada /chat"}
+{"level":"warn","message":"ruta no encontrada /index"}
+{"level":"warn","message":"ruta no encontrada /api/chat"}
+{"level":"warn","message":"ruta no encontrada /login/auth"}
+{"level":"warn","message":"ruta no encontrada /favicon.ico"}
+{"level":"error","message":"Error del servidor.Error: listen EACCES: permission denied node"}
+{"level":"error","message":"Error del servidor.Error: listen EACCES: permission denied CLUSTER"}
+{"level":"warn","message":"ruta no encontrada /favicon.ico"}
+{"level":"warn","message":"ruta no encontrada /api/randoms"}
+{"level":"warn","message":"ruta no encontrada /chat"}
+{"level":"warn","message":"ruta no encontrada /api/chat"}
+{"level":"warn","message":"ruta no encontrada /logout"}
+{"level":"warn","message":"ruta no encontrada /logout"}
+{"level":"warn","message":"ruta no encontrada /*"}
+{"level":"warn","message":"ruta no encontrada /*"}
+{"level":"warn","message":"ruta no encontrada /logout"}
